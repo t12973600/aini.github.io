@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-24T07:23:49.967Z</updated>
+  <updated>2020-02-24T08:27:45.724Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,21 @@
     <link href="http://yoursite.com/2020/02/24/wo-xiang-ni-liao/"/>
     <id>http://yoursite.com/2020/02/24/wo-xiang-ni-liao/</id>
     <published>2020-02-24T07:22:53.000Z</published>
-    <updated>2020-02-24T07:23:49.967Z</updated>
+    <updated>2020-02-24T08:27:45.724Z</updated>
     
-    <content type="html"><![CDATA[<p><span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png?v8">👯</span> </p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    <content type="html"><![CDATA[<h3 id="分开了怎么久"><a href="#分开了怎么久" class="headerlink" title="分开了怎么久"></a>分开了怎么久</h3><pre><code>有时候会在梦里见到你，有时候会突然想起你，有时候却想不起你的样子，有时候想着过的怎么样... </code></pre><p><span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f491.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f491.png?v8">💑</span> </p><img src="/image/hh.jpg" width="50%" height="50%"><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;span class=&quot;github-emoji&quot; style=&quot;color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/
+        &lt;h3 id=&quot;分开了怎么久&quot;&gt;&lt;a href=&quot;#分开了怎么久&quot; class=&quot;headerlink&quot; title=&quot;分开了怎么久&quot;&gt;&lt;/a&gt;分开了怎么久&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;有时候会在梦里见到你，
+
+有时候会突然想起你，
+
+有时候却想不起你的样子，
+
+有时候想着过的
       
     
     </summary>
