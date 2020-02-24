@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-24T14:57:16.294Z</updated>
+  <updated>2020-02-24T20:03:48.948Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>看教程终于买了gcorelabs.的伯力VPS了</title>
+    <link href="http://yoursite.com/2020/02/25/wang-su-zheng-chang-de-hua-wang-su-huan-shi-ke-yi-de/"/>
+    <id>http://yoursite.com/2020/02/25/wang-su-zheng-chang-de-hua-wang-su-huan-shi-ke-yi-de/</id>
+    <published>2020-02-24T20:03:48.856Z</published>
+    <updated>2020-02-24T20:03:48.948Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="computer-网速正常的话网速还是可以的"><a href="#computer-网速正常的话网速还是可以的" class="headerlink" title=":computer: 网速正常的话网速还是可以的"></a><span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8">💻</span> 网速正常的话网速还是可以的</h3><p>我家是联动的网一般在120/ms，看视频看1080能正常看，4K,8K就别想了也不知道网上是怎么达到的。</p><p>有一个问题就是安装了宝塔，<strong>CPU会突然升到100%，负载状态也是100%</strong>，</p><p>宝塔也只安装了Nginx 1.16.0，是不是用的人太多了。</p><p><img src="http://i1.fuimg.com/710688/2c014d365984ee7f.png" alt=""></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;computer-网速正常的话网速还是可以的&quot;&gt;&lt;a href=&quot;#computer-网速正常的话网速还是可以的&quot; class=&quot;headerlink&quot; title=&quot;:computer: 网速正常的话网速还是可以的&quot;&gt;&lt;/a&gt;&lt;span class=&quot;githu
+      
+    
+    </summary>
+    
+    
+      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="vps,教程" scheme="http://yoursite.com/tags/vps-%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>百度个教程都找不到</title>
