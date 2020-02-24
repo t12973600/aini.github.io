@@ -18,7 +18,7 @@
     <meta name="keywords" content="陶林,blog,hexo,长治">
 
 
-<title>归档: 2020 | 林小博</title>
+<title>category | 林小博</title>
 
 
 
@@ -111,67 +111,35 @@
     }
 </script>
         <div class="main">
-            <div class="post-wrap archive">
-    
-    
+            <div class="container">
+    <article class="post-wrap page">
         
-
+        <h2 class="post-title">category</h2>
         
-            <h3>2020</h3>
-        
-
-        <article class="archive-item">
-            <a class="archive-item-link" href="/2020/02/24/wo-xiang-ni-liao/">我想你了</a>
-            <span class="archive-item-date">二月 24, 2020</span>
-        </article>
-    
-        
-
-        
-
-        <article class="archive-item">
-            <a class="archive-item-link" href="/2020/02/24/hello-world/">Hello World</a>
-            <span class="archive-item-date">二月 24, 2020</span>
-        </article>
-    
-        
-
-        
-
-        <article class="archive-item">
-            <a class="archive-item-link" href="/2020/02/23/mei-ci-zai-meng-zhong-du-neng-meng-dao-yi-qian-de-chang-jing/">80后的人都怀旧</a>
-            <span class="archive-item-date">二月 23, 2020</span>
-        </article>
-    
-        
-
-        
-
-        <article class="archive-item">
-            <a class="archive-item-link" href="/2020/02/23/hexo-github-da-jian-bo-ke/">hexo+github搭建博客</a>
-            <span class="archive-item-date">二月 23, 2020</span>
-        </article>
-    
-        
-
-        
-
-        <article class="archive-item">
-            <a class="archive-item-link" href="/2020/02/23/gong-di-you-fu-gong-de-ji-xiang/">工地有复工的迹象</a>
-            <span class="archive-item-date">二月 23, 2020</span>
-        </article>
-    
-        
-
-        
-
-        <article class="archive-item">
-            <a class="archive-item-link" href="/2020/02/23/shou-da-xue-xi/">博客手打学习</a>
-            <span class="archive-item-date">二月 23, 2020</span>
-        </article>
-    
-    
+        <section class="post-content">
+            <script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>
+        </section>
+    </article>
 </div>
+
         </div>
         <footer id="footer" class="footer">
     <div class="copyright">
